@@ -54,7 +54,7 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env paste here config env url
+wget -O config.env https://gist.githubusercontent.com/akashmirror11/72401086c3072eb2ff1b4dbf8e9c8f14/raw/config.env
 wget -O token.pickle https://github.com/yourusername/reponame/raw/main/token.pickle
 rin
 bash start*
